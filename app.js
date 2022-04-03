@@ -23,7 +23,7 @@ buttons.forEach((btn, index) => {
         } else if (count < 0) {
             value.style.color = "red";
         } else {
-            value.style.color = "var(--ff-primary)";
+            value.style.color = "inherit";
         }
         value.textContent = count;
     });
