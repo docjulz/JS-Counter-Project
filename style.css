@@ -35,6 +35,9 @@ main {
 }
 .container {
     text-align: center;   
+    padding: 50px 50px;
+    background-color: rgba(203, 236, 246, 0.3);
+    box-shadow: rgba(157, 226, 249, 0.8) 0px 4px 12px;
 }
 /* h1 {
     line-height: 1.25;
